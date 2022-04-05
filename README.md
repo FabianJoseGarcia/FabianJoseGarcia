@@ -4,7 +4,7 @@ MI NOMBRE ES FABIAN
 
 <p align="left">
 </p>
-<h3 align="left">Estos son algunas de las hereamientas y lenguajes que utilizo a menudo:</h3>
+<h3 align="left">Estos son algunas de las hereamientas y lenguajes que utilizo a menudo o que estoy aprendiendo:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="epicgames" width="auto" height="auto"/> </a> <a href="https://www.w3schools .com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt= "slack" width="auto" height="auto"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
