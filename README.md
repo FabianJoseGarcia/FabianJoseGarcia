@@ -1,8 +1,8 @@
 HOLA!<br>
 MI NOMBRE ES FABIAN
-<h3 align="center">Soy un estudiante que esta practicando y aprendiendo lenguaje de programasion </h3>
+<h3 align="center">Soy un estudiante que esta practicando y aprendiendo el lenguaje de programasion  </h3>
 
-p align="left">
+<p align="left">
 </p>
 <h3 align="left">Estos son algunas de las hereamientas y lenguajes que utilizo a menudo:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
